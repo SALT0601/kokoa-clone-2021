@@ -31,3 +31,7 @@
 .alt-header__column span:last-child {
   margin-left: 20px;
 }
+
+.fa-exclamation-circle {
+  color: tomato;
+}
