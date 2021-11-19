@@ -106,6 +106,12 @@
 .open-post-2__members-status {
   color: #ffb0e0;
 }
+.open-post__members,
+.open-post-2__members {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
 .open-post__photo,
 .open-post-2__photo {
   position: relative;
